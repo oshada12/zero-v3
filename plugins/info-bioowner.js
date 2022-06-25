@@ -1,12 +1,12 @@
 let handler = async (m, { conn, args, usedPrefix, command }) => {
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `*───────[ BIODATA OWNER ]───────*
-*💌 Nama* : Sad-Bot
-*✉️ Nama RL* : Fahri
-*♂️ Gender* : Laki - laki
-*🕋 Agama* : Islam
-*⏰ Tanggal lahir* : 10 Juni 2007
-*🎨 Umur* : 15
+*💌 Nama* : Vimukthi-Oshada
+*✉️ Nama RL* : Vimukthi
+*♂️ Gender* : Male
+*🕋 Agama* : buddist
+*⏰ Tanggal lahir* : 04 july 2005
+*🎨 Umur* : 17
 *🧮 Kelas* : 9
 *🧩 Hobby* : Nonton Hanime, Chatting, Recode script bot
 *💬 Sifat* : Idiot, Tidak Ramah, Kanjut, Prik, Pedofil
@@ -15,10 +15,10 @@ let teksbio = `*───────[ BIODATA OWNER ]───────*
 *💔 Benci* : autis, anak epep, seleb
 
 *───────[ SOSIAL MEDIA ]───────*
-*📷 instagran* : @bot_whangsaf
-*🇫  Facebook* : Adison Fahri
-*🏮 Chanel Youtube* : Papah-Chan
-*🐈 Github:* FahriAdison
+*📷 instagran* : no
+*🇫  Facebook* : Vimukthi.Oshada.XD
+*🏮 Chanel Youtube* : M_R
+*🐈 Github:* zero7v
 
 `
 conn.sendHydrated(m.chat, teksbio, wm, ppown, "wa.me/" + nomorown, "💬 ᴄʜᴀᴛs", null,null, [["ᴅᴏɴᴀsɪ", '.donasi'], [null, null],[null,null]], m)

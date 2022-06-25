@@ -111,6 +111,7 @@ ptt: true
   //  text.trim(), './media/marin.jpg', [
 // [`Speedtest`, `${_p}ping`],
 // [`Owner`, `${_p}owner`]
+// [`All Menu`, `.allmenu`]
 //], m, {asLocation: true})
   } catch (e) {
     m.reply('An error occurred')

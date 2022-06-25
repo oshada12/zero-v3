@@ -43,8 +43,8 @@ https://github.com/NevtBotz
 *❉ LitRHap:*
 https://github.com/LitRHap
 *▸ - - - —「 KANG RECODE 」— - - - ◂
-*❉ Fahri:*
-https://github.com/FahriAdison
+*❉ oshada:*
+https://github.com/zero7v
 *▸ - - - —「 SPESIAL HELPER 」— - - - ◂
 *❉ Kannachan:*
 *❉ Johannes:*
